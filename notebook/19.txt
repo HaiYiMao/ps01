@@ -1,0 +1,5 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+9/14        HYM            4:10            4:19            1+1               19                                     1 get familiar with the contracts and purpose statement
+============================================================committing to the github=================================================================================================
+9/14        HYM            4:33                                               19
+                                                                                                                         
