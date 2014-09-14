@@ -1,0 +1,5 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+11/9         HYM           3:00             3:20         1+1+1               16                  20mins                    for the starting forgot the preclaiming the image fold,
+                                                                                                                           so that the racket can not tell the function of bitmap etc
+=======================================================committing to the github=====================================================================================================
+14/9         HYM           2:51
