@@ -1,0 +1,5 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+9/11         HYM            3:25             3:40          1+1                   17               15min                       the constant argument such as blue should be input as
+                                                                             						     the string “ ” type
+=========================================================committing to the github====================================================================================================
+9/14        HYM            3:03                                                  17
