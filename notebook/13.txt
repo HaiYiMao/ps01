@@ -1,0 +1,4 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+9/11        HYM            1:00             1:05           0                   13               5min                         knowing about the racket doesn’t check the data type
+==================================================================committing to github==============================================================================================
+9/14        HYM            1:25             
