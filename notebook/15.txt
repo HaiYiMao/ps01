@@ -1,0 +1,9 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+9/11        HYM            19:49            19:59            1+1               10                                    1 get familiar with the contracts and purpose statement
+============================================================committing to the github=================================================================================================
+9/14        HYM            17:44                                                15
+                                           
+
+//etc.//
+TOTAL TIME ON THE TASK 10 mins
+TO15: 0.15 (hours)

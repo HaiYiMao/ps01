@@ -3,3 +3,5 @@ Date         who           start            stop         interruption       ques
                                                                                                                             illegal using a comma in the definition of a struct
 ==============================================================committing to github=================================================================================================
 9//14       HYM            12:52            12:53                            12                  
+  //etc.//
+TOTAL TIME ON TASK :8 min

@@ -3,3 +3,8 @@ Date         who           start            stop         interruption       ques
                                                                              						     the string “ ” type
 =========================================================committing to the github====================================================================================================
 9/14        HYM            3:03                                                  17
+
+
+
+//etc.//
+TOTAL TIME ON TASK: 15mins

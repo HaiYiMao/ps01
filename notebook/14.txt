@@ -1,4 +1,7 @@
 Date         who           start            stop         interruption       question           time on task                  comments
 11/9         HYM          2:47             2:57             1+1+1               14                 10                      still understanding the procedure of data design recipe
 ======================================================committing to the github=======================================================================================================
-14/9         HYM          1:57                                               
+14/9         HYM          1:57    
+//etc.//
+TOTAL TIME ON TASK:10 mins
+                                           
