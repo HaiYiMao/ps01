@@ -1,0 +1,7 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+9/13        HYM            14:45            14:53           1+1              12                 5                           getting familiar with the Data Design recipe
+                                                                                                                            illegal using a comma in the definition of a struct
+==============================================================committing to github=================================================================================================
+9//14       HYM            12:52            12:53                            12                  
+  //etc.//
+TOTAL TIME ON TASK :8 min
