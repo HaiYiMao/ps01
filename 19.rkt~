@@ -4,14 +4,14 @@
 (require 2htdp/image)
 
 
-;; rel-rec-sequence: PosReal PosReal -> Rectangle
-;; GIVEN:Takes two numbers and returns a solid blue rectangle, where the first number is
+;;rel-rec-sequence: PosReal PosReal -> Rectangle
+;;GIVEN:Takes two numbers and returns a solid blue rectangle, where the first number is
 ;; the width of the rectangle, and the second number is the proportion of width
 ;; and height of the rectangle to be produced (i.e. height = width * proportion).
-;; RETURNS: a rectangle with the given height and width
-;; Examples:
-;; (rel-rec-sequence 10 0.5)=(rectangle 10 5 "solid" "blue")
-;; STRATEGY:
+;;RETURNS: a rectangle with the given height and width
+;;Examples:
+;;(rel-rec-sequence 10 0.5)=(rectangle 10 5 "solid" "blue")
+;;STRATEGY:
 (define (rel-rec-sequence w p)
   (rectangle w (* w p) "solid" "blue"))
 
