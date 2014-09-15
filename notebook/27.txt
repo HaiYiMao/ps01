@@ -1,0 +1,13 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+15/9        HYM            9:00              9:05            1                 27                 5mins                    the meaning of task
+15/9        HYM            9:05              9:25           1+1+1              27                 20mins                     got it
+15/9        HYM            9:25              9:30           0                  27                  5mins                   using string-append
+==============================================================committing to the github===============================================================================================
+15/9        HYM             12:05            
+==============================================================committing to the github===============================================================================================
+15/9        HYM             16:29                                              27                                              complete the test part with rack unit
+                             
+
+  //etc.//
+Total time on this task 27:30
+TOT29    0.5 (hour)             

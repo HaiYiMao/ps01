@@ -1,0 +1,13 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+15/9        HYM            8:30              8:35            1                 26                 5mins                    the meaning of task
+15/9        HYM            9:35              9:55           1+1+1              26                 20mins                  how to represent the node
+15/9        HYM            9:55              10:00           0                 26                 5mins                   using image place
+==============================================================committing to the github===============================================================================================
+15/9        HYM             12:05            
+==============================================================committing to the github===============================================================================================
+15/9        HYM             16:37                                              27                                              complete the test part with rack unit
+                             
+
+  //etc.//
+Total time on this task 26:30
+TOT29    0.5 (hour)             

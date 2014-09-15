@@ -1,0 +1,12 @@
+DATE        WHO              START             STOP          INTERRUPTION       TASK               Time on task                  comments
+14/9        HYM              8:15              8:20           1                 24                 5mins                    the usage general recursion
+
+==============================================================committing to the github===============================================================================================
+15/9        HYM             12:05            
+==============================================================committing to the github===============================================================================================
+15/9        HYM             16:57                                              27                                              complete the test part with rack unit
+                             
+
+  //etc.//
+Total time on this task 24:5mins
+TOT29    0.2 (hour)             
