@@ -1,0 +1,13 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+15/9        HYM            10:00            10:15            1                 29                 15mins                    what’s the situation of empty ….should be empty too
+15/9        HYM            10:15            10:30            1+1+1             29                 15mins                    how to line
+15/9        HYM            10:30            10:35           0                  29                  5mins                    align/beside bottom
+==============================================================committing to the github===============================================================================================
+15/9        HYM             12:05            
+==============================================================committing to the github===============================================================================================
+15/9        HYM             16:05                                              29                                              complete the test part with rack unit
+                             
+
+  //etc.//
+Total time on this task 29: 35
+TOT29    0.55 (hour)             
