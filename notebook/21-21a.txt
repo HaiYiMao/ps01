@@ -1,0 +1,12 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+9/14        HYM            19:10            19:19            1+1               20-21             9mins                        1 get familiar with the contracts and purpose statement
+9/14        HYM            19:19            19:30             1                20-21             11mins                        get help from the desk using rotate
+============================================================committing to the github=================================================================================================
+9/15        HYM            17:08                                             20-21
+                                           
+
+
+
+//etc.//
+TOTAL TIME : 20 mins
+TOT20-29: 0.3 hours
