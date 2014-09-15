@@ -2,4 +2,5 @@ Date         who           start            stop         interruption       ques
 15/9        HYM            12:05           12:15            1                 32                  10mins                    the same problem as the example in the Racket guide
 ==============================================================committing to the github===============================================================================================
 15/9        HYM             12:05            
-15/9        HYM             15:11                                                                                           complete the test part with rack unit
+15/9        HYM             15:11                                            32                                              complete the test part with rack unit
+15/9        HYM             15:21                                            32                                              do some changes
