@@ -1,6 +1,6 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
-#reader(lib "htdp-beginner-reader.ss" "lang")((modname |30|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname EX30) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
 ;;listofboolean-reverse:List->List
 ;;Returns the List with reverse of each element
 ;;Examples:
@@ -10,6 +10,6 @@
   (cond
    [(empty? lst) empty] 
    [else (append (list (not (first lst))) ( list(listofboolean-reverse(rest lst))))]))
-(listofboolean-reverse (list true true true false false false ))
+(listofboolean-reverse (list true ))
 (listofboolean-reverse(list false))
   
