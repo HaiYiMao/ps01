@@ -6,10 +6,10 @@
 ;;Examples:
 ;;(listofboolean-reverse (list true true true false false false))= (list false false false true true true)
 ;;(listofboolean-reverse(list false true false))=(list true false true)
-(define (listofboolean-reverse lst)
+(define (neg-list lst)
   (cond
    [(empty? lst) empty] 
-   [else (append (list (not (first lst))) ( list(listofboolean-reverse(rest lst))))]))
-(listofboolean-reverse (list true true true false false false ))
-(listofboolean-reverse(list false))
+   [else (append (list(not (first lst))) (neg-list(rest lst)))]))
+(neg-list (list true true true false false false ))
+(neg-list(list false))
   
