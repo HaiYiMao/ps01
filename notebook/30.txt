@@ -1,0 +1,8 @@
+Date         who           start            stop         interruption       question           time on task                  comments
+15/9        HYM            11:00            11:15            1                 30                 15mins                    what’s the situation of empty ….should be empty too
+15/9        HYM            11:15            11:30            1+1+1             30                 15mins                    too many empty
+15/9        HYM            11:30            11:35           0                  30                  5mins                     only(list the first element) not all (rest element)
+==============================================================committing to the github===============================================================================================
+15/9        HYM             12:05            
+15/9        HYM             15:47                                            30                                              complete the test part with rack unit
+                                          
